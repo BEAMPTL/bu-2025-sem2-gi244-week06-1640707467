@@ -7,6 +7,7 @@ public class SpawnManager : MonoBehaviour
     // [2] declare a public int variable for animal index for testing instantiation
     private int animalIndex;
     public float spawnRangeX = 15;
+    public float spawnRangeY = 15;
 
     void Start()
     {
