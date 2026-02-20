@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week06-1640707467\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FC1DF97-F86B-35CA-2B16-AB62448492B1}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week06-1640707467\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FC1DF97-F86B-35CA-2B16-AB62448492B1}|Assembly-CSharp.csproj|c:\\users\\administrator\\documents\\github\\bu-2025-sem2-gi244-week06-1640707467\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FC1DF97-F86B-35CA-2B16-AB62448492B1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FC1DF97-F86B-35CA-2B16-AB62448492B1}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week06-1640707467\\assets\\scripts\\moveforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FC1DF97-F86B-35CA-2B16-AB62448492B1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FC1DF97-F86B-35CA-2B16-AB62448492B1}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week06-1640707467\\assets\\scripts\\wavespawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FC1DF97-F86B-35CA-2B16-AB62448492B1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wavespawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FC1DF97-F86B-35CA-2B16-AB62448492B1}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week06-1640707467\\assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FC1DF97-F86B-35CA-2B16-AB62448492B1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FC1DF97-F86B-35CA-2B16-AB62448492B1}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week06-1640707467\\assets\\scripts\\moveforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC1DF97-F86B-35CA-2B16-AB62448492B1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveforward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FC1DF97-F86B-35CA-2B16-AB62448492B1}|Assembly-CSharp.csproj|c:\\users\\administrator\\documents\\github\\bu-2025-sem2-gi244-week06-1640707467\\assets\\scripts\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FC1DF97-F86B-35CA-2B16-AB62448492B1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FC1DF97-F86B-35CA-2B16-AB62448492B1}|Assembly-CSharp.csproj|c:\\users\\administrator\\documents\\github\\bu-2025-sem2-gi244-week06-1640707467\\assets\\scripts\\wavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FC1DF97-F86B-35CA-2B16-AB62448492B1}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week06-1640707467\\assets\\scripts\\wavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FC1DF97-F86B-35CA-2B16-AB62448492B1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC1DF97-F86B-35CA-2B16-AB62448492B1}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week06-1640707467\\assets\\scripts\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC1DF97-F86B-35CA-2B16-AB62448492B1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FC1DF97-F86B-35CA-2B16-AB62448492B1}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week06-1640707467\\assets\\scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +29,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8FC1DF97-F86B-35CA-2B16-AB62448492B1}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week06-1640707467\\assets\\scripts\\wave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FC1DF97-F86B-35CA-2B16-AB62448492B1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC1DF97-F86B-35CA-2B16-AB62448492B1}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week06-1640707467\\assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC1DF97-F86B-35CA-2B16-AB62448492B1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Food.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week06-1640707467\\Assets\\Scripts\\Food.cs",
               "RelativeToolTip": "Assets\\Scripts\\Food.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T03:04:14.054Z",
               "EditorCaption": ""
@@ -65,27 +65,27 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week06-1640707467\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwD0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwBcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T02:51:29.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "WaveController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week06-1640707467\\Assets\\Scripts\\WaveController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WaveController.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week06-1640707467\\Assets\\Scripts\\WaveController.cs",
               "RelativeToolTip": "Assets\\Scripts\\WaveController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCgAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T02:48:02.235Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MoveForward.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week06-1640707467\\Assets\\Scripts\\MoveForward.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MoveForward.cs",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "GameState.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week06-1640707467\\Assets\\Scripts\\GameState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameState.cs",
@@ -111,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "WaveSpawnManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week06-1640707467\\Assets\\Scripts\\WaveSpawnManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WaveSpawnManager.cs",
@@ -124,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Wave.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week06-1640707467\\Assets\\Scripts\\Wave.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Wave.cs",
@@ -132,11 +132,12 @@
               "RelativeToolTip": "Assets\\Scripts\\Wave.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T02:39:33.086Z"
+              "WhenOpened": "2026-02-20T02:39:33.086Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "SpawnManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\bu-2025-sem2-gi244-week06-1640707467\\Assets\\Scripts\\SpawnManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManager.cs",
@@ -144,7 +145,8 @@
               "RelativeToolTip": "Assets\\Scripts\\SpawnManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T02:33:38.379Z"
+              "WhenOpened": "2026-02-20T02:33:38.379Z",
+              "EditorCaption": ""
             }
           ]
         }
